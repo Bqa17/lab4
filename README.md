@@ -15,22 +15,22 @@ Time spent: **5** hours spent in total <!-- Replace 'X' with the number of hours
 The following **required** functionality is completed:
 
 - [x] (3 pts) **Articles are displayed using the RecyclerView.**
-  - ![Image/GIF showing RecyclerView implementation]![1](https://github.com/user-attachments/assets/d6543b2e-d767-4634-aea7-c4c6efa5bbf6)
+  - ![Image/GIF showing RecyclerView implementation](https://github.com/user-attachments/assets/d6543b2e-d767-4634-aea7-c4c6efa5bbf6)
 <!-- Replace this link with your actual image/GIF link -->
 
 - [x] (4 pts) **Can navigate to the Article Details screen.**
-  - ![Image/GIF showing Article Details screen] ![2](https://github.com/user-attachments/assets/fe8981b3-2e39-4195-b3b3-b4155a4eed3a)
+  - ![Image/GIF showing Article Details screen](https://github.com/user-attachments/assets/fe8981b3-2e39-4195-b3b3-b4155a4eed3a)
  <!-- Replace this link with your actual image/GIF link -->
 
 - [x] (3 pts) **Article images are downloaded and displayed using Glide.**
-  - ![Image/GIF showing Glide usage]![2](https://github.com/user-attachments/assets/fe8981b3-2e39-4195-b3b3-b4155a4eed3a) <!-- Replace this link with your actual image/GIF link -->
+  - ![Image/GIF showing Glide usage](https://github.com/user-attachments/assets/fe8981b3-2e39-4195-b3b3-b4155a4eed3a) <!-- Replace this link with your actual image/GIF link -->
 
 ### Stretch Features
 
 The following **stretch** functionality is implemented:
 
 - [x] (+2 pts bonus) **Enhanced the UI for the application with customized fonts and ConstraintLayout for each of the screens.**
-  - ![Image/GIF showing custom UI styling] ![3](https://github.com/user-attachments/assets/cafe35c6-dcc0-48ea-a853-11badbd95a14)
+  - ![Image/GIF showing custom UI styling](https://github.com/user-attachments/assets/cafe35c6-dcc0-48ea-a853-11badbd95a14)
  <!-- Replace this link with your actual image/GIF link -->
 
 ## Notes
