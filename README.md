@@ -15,7 +15,8 @@ Time spent: **5** hours spent in total <!-- Replace 'X' with the number of hours
 The following **required** functionality is completed:
 
 - [x] (3 pts) **Articles are displayed using the RecyclerView.**
-  - ![Image/GIF showing RecyclerView implementation](![1](https://github.com/user-attachments/assets/5a2424ec-ae87-4df5-9524-9db75fa0d01f)) <!-- Replace this link with your actual image/GIF link -->
+  - ![Image/GIF showing RecyclerView implementation]![1](https://github.com/user-attachments/assets/d6543b2e-d767-4634-aea7-c4c6efa5bbf6)
+<!-- Replace this link with your actual image/GIF link -->
 
 - [x] (4 pts) **Can navigate to the Article Details screen.**
   - ![Image/GIF showing Article Details screen](http://i.imgur.com/link/to/your/gif/file.gif) <!-- Replace this link with your actual image/GIF link -->
